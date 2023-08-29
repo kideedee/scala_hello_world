@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71309477-e5e6-439f-b2c2-7887baac2fd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/hello_world/hello.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/hello_world/helloInteractive.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/hello_world/temp.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/build_in_data_types.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/declaring_variable_types.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/two_types_of_variables.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +125,7 @@
       <updated>1693281910425</updated>
       <workItem from="1693281911515" duration="904000" />
       <workItem from="1693283616051" duration="256000" />
-      <workItem from="1693283908693" duration="2122000" />
+      <workItem from="1693283908693" duration="5290000" />
     </task>
     <servers />
   </component>
