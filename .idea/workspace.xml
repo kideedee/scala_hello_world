@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71309477-e5e6-439f-b2c2-7887baac2fd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/build_in_data_types.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/declaring_variable_types.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/variables_and_data_types/two_types_of_variables.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/control_structures/for_loops_and_expressions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/control_structures/if_else.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/control_structures/match_expressions.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/control_structures/try_catch_finally.sc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +126,7 @@
       <updated>1693281910425</updated>
       <workItem from="1693281911515" duration="904000" />
       <workItem from="1693283616051" duration="256000" />
-      <workItem from="1693283908693" duration="5290000" />
+      <workItem from="1693283908693" duration="7893000" />
     </task>
     <servers />
   </component>
